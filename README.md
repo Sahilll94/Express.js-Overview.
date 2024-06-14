@@ -37,23 +37,23 @@ git clone https://github.com/yourusername/express-kidney-app.git
 cd express-kidney-app
 ```
 
-Install Dependencies
+### Install Dependencies
 ```bash
 npm install
 ```
 
-Start the Express Server
+### Start the Express Server
 ```bash
 npm start
 ```
 Open your browser and navigate to http://localhost:3000/ to access the application.
 
-Usage
+### Usage
 
 GET / - Retrieves information about the kidneys.
 POST / - Adds a new kidney to the record.
 PUT / - Updates all kidneys to healthy.
 DELETE / - Removes all unhealthy kidneys.
 
-Contributing
+### Contributing
 Contributions are welcome! Fork the repository and submit a pull request.
