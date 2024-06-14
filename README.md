@@ -58,5 +58,7 @@ PUT / - Updates all kidneys to healthy.
 
 DELETE / - Removes all unhealthy kidneys.
 
+Use Postman for a better expirience.
+
 ### Contributing
 Contributions are welcome! Fork the repository and submit a pull request.
