@@ -29,18 +29,23 @@ To get a local copy up and running follow these simple steps:
 
 ```bash
 git clone https://github.com/yourusername/express-kidney-app.git
+```
 
 ### Navigate into the Project Directory
 
 ```bash
 cd express-kidney-app
+```
 
 ###Install Dependencies
+```bash
 npm install
+```
 
 ###Start the Express Server
+```bash
 npm start
-
+```
 Open your browser and navigate to http://localhost:3000/ to access the application.
 
 ###Usage
