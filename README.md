@@ -30,25 +30,25 @@ To get a local copy up and running follow these simple steps:
 ```bash
 git clone https://github.com/yourusername/express-kidney-app.git
 
-## Navigate into the Project Directory
+### Navigate into the Project Directory
 
 ```bash
 cd express-kidney-app
 
-##Install Dependencies
+###Install Dependencies
 npm install
 
-##Start the Express Server
+###Start the Express Server
 npm start
 
 Open your browser and navigate to http://localhost:3000/ to access the application.
 
-##Usage
+###Usage
 
 GET / - Retrieves information about the kidneys.
 POST / - Adds a new kidney to the record.
 PUT / - Updates all kidneys to healthy.
 DELETE / - Removes all unhealthy kidneys.
 
-##Contributing
+###Contributing
 Contributions are welcome! Fork the repository and submit a pull request.
