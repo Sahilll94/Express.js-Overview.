@@ -51,8 +51,11 @@ Open your browser and navigate to http://localhost:3000/ to access the applicati
 ### Usage
 
 GET / - Retrieves information about the kidneys.
+
 POST / - Adds a new kidney to the record.
+
 PUT / - Updates all kidneys to healthy.
+
 DELETE / - Removes all unhealthy kidneys.
 
 ### Contributing
