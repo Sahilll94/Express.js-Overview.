@@ -2,18 +2,6 @@
 
 This is a simple Express.js application that manages kidney health records.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-  - [Clone the Repository](#clone-the-repository)
-  - [Navigate into the Project Directory](#navigate-into-the-project-directory)
-  - [Install Dependencies](#install-dependencies)
-  - [Start the Express Server](#start-the-express-server)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Prerequisites
 
 Before running this project locally, make sure you have the following installed:
