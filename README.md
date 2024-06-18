@@ -74,5 +74,5 @@ This repository contains multiple Express.js applications showcasing different f
    ```
 
 ## Usage
-1. Each application demonstrates different aspects of Express.js routing, middleware usage, error handling, and input validation using Zod.
-2. Use tools like Postman or curl to send requests to the defined endpoints.
+- Each application demonstrates different aspects of Express.js routing, middleware usage, error handling, and input validation using Zod.
+- Use tools like Postman or curl to send requests to the defined endpoints.
