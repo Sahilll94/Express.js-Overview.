@@ -4,37 +4,37 @@ This repository contains multiple Express.js applications showcasing different f
 
 ## Applications Overview
 
-1. **UsernameAndPassword Validation** : [Go the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/UsernameAndPasswordValidation.js)
+1. **UsernameAndPassword Validation** : [Link the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/UsernameAndPasswordValidation.js)
    - Endpoint: `/UsernameAndPassword`
    - Validates input JSON containing `email` and `password` fields.
    - Returns "Correct input." if valid; otherwise, "Invalid Input!" with a 400 status code.
 
-2. **Health Checkup**
+2. **Health Checkup** : [Link the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/HealthCheckUp.js)
    - Endpoint: `/health-checkup`
    - Retrieves the number of kidneys from the request body.
    - Returns the count of kidneys with a custom message.
 
-3. **Health Checkup (Headers and Query Parameters)**
+3. **Health Checkup (Headers and Query Parameters)** : [Link the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/HealthCheckUp(HeadersAndQueryParameters).js)
    - Endpoint: `/health-checkup`
    - Validates `username` and `password` in headers.
    - Checks if the number of kidneys (`Kidney` query parameter) is 1 or 2.
    - Returns "Your kidneys are safe." if valid; otherwise, appropriate error messages.
 
-4. **Middleware Authentication and Parameter Validation**
+4. **Middleware Authentication and Parameter Validation** : [Link the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/MiddlewareAuthenticationAndParameterValidation.js)
    - Endpoints: `/health-checkup`, `/kidney-checkup`, `/Heart-Checkup`
    - Uses middleware functions for authentication (`CredentialsChecker`) and kidney number validation (`KidneyNumbersChecker`).
    - Returns safety messages for different health checkups based on middleware validation.
 
-5. **Zod Schema Validation**
+5. **Zod Schema Validation** : [Link the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/ZodSchemaValidation.js)
    - Validates an array of numbers using Zod.
    - Logs validation response to console.
 
-6. **Health Checkup with Zod Validation**
+6. **Health Checkup with Zod Validation** : [Link the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/HealthCheckupWithZodValidation.js)
    - Endpoint: `/health-checkup`
    - Validates input array containing numbers (representing kidneys) using Zod.
    - Returns the count of kidneys or appropriate error messages.
 
-7. **Kidney Information**
+7. **Kidney Information** : [Link the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/KidneyInformation.js)
    - Endpoint: `/`
    - Retrieves information about John's kidneys.
    - Returns the total number of kidneys, number of healthy kidneys, and number of unhealthy kidneys.
