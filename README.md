@@ -4,7 +4,7 @@ This repository contains multiple Express.js applications showcasing different f
 
 ## Applications Overview
 
-1. [**UsernameAndPassword Validation**](https://github.com/Sahilll94/Express.js-Overview./blob/main/UsernameAndPasswordValidation.js)
+1. **UsernameAndPassword Validation** : [Go the the file](https://github.com/Sahilll94/Express.js-Overview./blob/main/UsernameAndPasswordValidation.js)
    - Endpoint: `/UsernameAndPassword`
    - Validates input JSON containing `email` and `password` fields.
    - Returns "Correct input." if valid; otherwise, "Invalid Input!" with a 400 status code.
