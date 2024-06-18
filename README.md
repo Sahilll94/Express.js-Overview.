@@ -70,7 +70,7 @@ This repository contains multiple Express.js applications showcasing different f
    npm start
    ```
 
-Replace <application-directory> with the directory containing the specific Express.js application.
+Replace application-directory while navigating to the specific application directory with the directory containing the specific Express.js application.
 
 ## Usage
 1. Each application demonstrates different aspects of Express.js routing, middleware usage, error handling, and input validation using Zod.
