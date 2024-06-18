@@ -60,9 +60,9 @@ This repository contains multiple Express.js applications showcasing different f
 
 3. Install dependencies:
 
-  ```bash
-  npm install
-  ```
+   ```bash
+   npm install
+   ```
 
 4. Start the server:
 
